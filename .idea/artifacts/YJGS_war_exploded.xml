@@ -8,7 +8,7 @@
           <element id="module-output" name="YJGS" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="activation" />
+          <element id="library" level="project" name="additional" />
         </element>
       </element>
     </root>

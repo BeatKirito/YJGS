@@ -2,1110 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f542d90-da6e-4c42-8571-9f4e3d80192c" name="Default" comment="初始版本 | init version">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/AddAndMinus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/BGupload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/ContactUsBG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/DefaultIntroPic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/DefaultLogo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/css/Jcrop.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/NoBrePic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/activation.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/adminIconList.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/adminLoadIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/adminLogo.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/adviseButtonBG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/link/images/anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/link/images/anchor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/link/images/hidpi/anchor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/angel_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/angel_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/angry_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/angry_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/images/arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/backgroundForH2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/bg_footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/bg_product.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/showblocks/images/block_address.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/showblocks/images/block_blockquote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/showblocks/images/block_div.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/showblocks/images/block_h1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/showblocks/images/block_h2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/showblocks/images/block_h3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/showblocks/images/block_h4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/showblocks/images/block_h5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/showblocks/images/block_h6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/showblocks/images/block_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/showblocks/images/block_pre.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/bobackground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/body_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/body_repeat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/broken_heart.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/broken_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/cha.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/images/hidpi/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/confused_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/confused_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/cry_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/cry_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/cuo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/devil_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/devil_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/images/dialog_sides.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/images/dialog_sides.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/images/dialog_sides.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/images/dialog_sides.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/images/dialog_sides.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/images/dialog_sides.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/images/dialog_sides_rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/images/dialog_sides_rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/images/dialog_sides_rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/dui.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/embaressed_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/embarrassed_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/embarrassed_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/envelope.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/envelope.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/footer-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/headbackground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/heart.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/forms/images/hiddenfield.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/yui/assets/hue_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/yui/assets/hue_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/magicline/images/icon-rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/magicline/images/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/magicline/images/hidpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/iconfont-jinzhi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/iconfont-keyi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/iconfont-xiayi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/iconfont-youjiantou.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/iconfont-youjiantou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/iconlist.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/icons_hidpi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/icons_hidpi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/icons_rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/icons_rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/icons_rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jspsmartupload.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/kiss.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/kiss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/lightbulb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/lightbulb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/images/lock-open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/images/hidpi/lock-open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/images/lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/images/hidpi/lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/assets/inlineall/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/about/dialogs/logo_ckeditor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/logoword.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/mail.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/images/mini.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/images/mini.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/images/mini.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.29-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/nav_bg_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/image/images/noimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/images/noimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/images/noimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/images/noimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/nowBG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/PicCache/27/o_20141218205618086.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/omg_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/omg_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.fla" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/pagebreak/images/pagebreak.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/yui/assets/picker_mask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/yui/assets/picker_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/placeholder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/flash/images/placeholder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/iframe/images/placeholder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/pngBgList.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/point.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/demo_files/pool.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/images/refresh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/images/hidpi/refresh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/regular_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/regular_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/sad_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/sad_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/demo_files/sago.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/demo_files/sagomod.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/demo_files/sagomod.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/assets/sample.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/set.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/shades_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/shades_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/images/spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/images/sprites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/images/sprites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/images/sprites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/images/sprites_ie6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/images/sprites_ie6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/images/sprites_ie6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/teeth_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/teeth_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/templates/templates/images/template1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/templates/templates/images/template2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/templates/templates/images/template3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/thumbs_down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/thumbs_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/thumbs_up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/thumbs_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/tongue_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/tongue_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/images/toolbar_start.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/images/toolbar_start.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/tounge_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/uicolor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/upAndDown.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/userIconlist.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/userIconlist.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Image/userLogo.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/wink_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/images/wink_smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/AboutUs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/AboutUs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/CompanyInfo/AboutUs.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/AccountManage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/AccountManage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/permanage/AccountValidate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/CompanyInfo/AddCompanyRelation.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/permanage/AddNewManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/PermissionManage/AddNewManager.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/AddNewType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/AddNewsType.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/AddNewsType.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/NewsManage/AddNewsType.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/news/AddNewsTypeSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/AddProduct.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/AddProduct.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/AddProduct1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/CompanyInfo/AddRelationSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/Addproduct3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/Advice.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/Advice.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/Advice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/AdviceBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/AdviceDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/advice/AdviceDealSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/AdviceDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/publ/AdviceYanzhengma.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/PermissionViewAndApply/AppliesStatus.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/permanage/ApplyDeal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/PermissionManage/ApplyDeal.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/BottomParam.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/BottomParam.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FirstPageManage/BottomParams.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/CHANGES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/fittler/CacheClear.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/firstpage/ChangeSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/CompanyInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/CompanyInfoDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/CompanyInfoDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/CompanyInfoManage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/CompanyInfoManage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/CompanyInfoManagerBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/CompanyInfoPicture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/CompanyInfoPictureDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/CompanyInfoPictureDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/enumdata/CompanyInfoType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/Complaint.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/Complaint.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/Complaint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FindPwdComplaint/Complaint.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ComplaintBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/ComplaintDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/ComplaintDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/findPwd_complaint/ComplaintSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dbcl/ConnectionPool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/ContactUs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/ContactUs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/CropAvator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/CropTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dbcl/DBConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/DD_belatedPNG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/DD_belatedPNG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/fittler/DefaultPageRedirct.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/permanage/DeleteApply.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/permanage/DeleteManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/news/DeleteNewsTypeSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/DeleteNowPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/DeleteNowPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/firstpage/DeletePic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/DeleteProPic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/DeleteProduct.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/DeleteType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/ErrorTips.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/ErrorTips.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Tips/ErrorTips.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/FindPwd.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/FindPwd.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FindPwdComplaint/FindPwd.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/findPwd_complaint/FindPwd1Sel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FindPwdComplaint/FindPwd2.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/findPwd_complaint/FindPwd2Sel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FindPwdComplaint/FindPwd3.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/findPwd_complaint/FindPwd3Sel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/FirstPage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/FirstPage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FirstPage/FirstPage.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/FirstPageManage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/FirstPageManage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/FirstPageManageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FirstPageManage/FirstPagePicList.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/FirstPagePicture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/FirstPagePictureDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/FirstPagePictureDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/FirstPageProductList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/FirstPageProductListDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/FirstPageProductListDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/FristPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/FristPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/Function.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/FunctionDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/FunctionDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/FunctionManage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/FunctionManage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/FunctionManage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/FunctionManage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FunctionManage/FunctionManage.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/FunctionManageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/functionManage/FunctionManageSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/GetAjaxPic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/advice/GoToAdvicePage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/advice/GoToAdvicesPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/news/GoToNewsPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/news/GoToNewsPage2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/GoToPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IAdviceDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IAdviceForUserBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IAdviceManageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/ICompanyInfoDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/ICompanyInfoManageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/ICompanyInfoPictureDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/IDataPackLayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IFirstPagePictureDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IFirstPagePictureManageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IFirstPageProductListDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IFirstPageProductManageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IFunctionDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IFunctionManageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/ILoadCompanyInfoBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/ILoadFirstPageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/ILoadMasterPageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/ILoadNewsInfoBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/ILoadNewsListBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/ILoadProductInfoBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/ILoadProductListBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IManaLoginBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IManaNewsInfoBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IManaNewsTypeBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IManaNumberBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IManaProInfoBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IManaProTypeBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IManagerDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IManager_PermissionDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/INewsDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/INewsListDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/INewsPictureDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/INewsTypeDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IPageBottomInfoDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IPageBottomInfoManageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IPermissionApplyDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/publ/IPermissionCheck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IPermissionDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IPermissionManageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IPermissionViewAndApplyBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IPermission_ApplyDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/publ/IPictureDeal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IProductDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IProductParamDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IProductPictureDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IProductTypeDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IPublishNewsBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/IPublishProBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ibll/ISearchBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/idal/IShowPicListDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/publ/ImageCut.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/InfoManage/InfoTest.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/CompanyInfo/InsertCompanyInfoSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/CompanyInfo/InsertCompanyRecruitmentSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/CompanyInfo/InsertCompanyRelationSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FirstPage/IntroPic.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/firstpage/IntroPicUpload.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/scayt/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/wsc/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Advice/LoadAdvice.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/LoadFirstPageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/LoadMasterPageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/fittler/LoginCheck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Tips/LoginTips.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FirstPage/Logo.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/firstpage/LogoUpload.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/publ/MD5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/publ/Mail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/AdviceManage/ManageAdvice.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/NewsManage/ManageNewsList.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/Manager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ManagerBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ManagerComplaint/ManagerComplaint.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/findPwd_complaint/ManagerComplaintSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/findPwd_complaint/ManagerComplaintSel2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/ManagerDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/ManagerDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/enumdata/ManagerLevel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/ManagerList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/ManagerList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/PermissionManage/ManagerList.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ManagerLogin/ManagerLogin.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/managerLogin/ManagerLoginSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/ManagerNews.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/ManagerNews.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/ManagerNews.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/ManagerNews.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/NewsManage/ManagerNews.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/news/ManagerNewsSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/Manager_PermissionDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/MappingManagerPermissionDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/MappingPermissionApplyDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/Mapping_Manager_Permission.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/Mapping_Permission_Apply.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/MessageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Master/MessageLink.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/MessageReminding.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/MessageReminding.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Message/MessageReminding.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/permanage/ModifyPermission.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/ModifyType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JcropTest/NewFile.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/testPage/NewFile1.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/NewRemind.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/NewRemind.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/News.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/News.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/News.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/NewsBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/NewsDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/NewsDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/NewsList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/NewsListDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/NewsPicture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/NewsPictureDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/NewsPictureDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ManagerComplaint/NewsRemind.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/news/NewsSPictureSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/NewsType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/NewsTypeBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/NewsTypeDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/NewsTypeDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/NewsUpdate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/NewsUpdate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Tips/NormalTips.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FirstPageManage/OtherPageManage.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/OtherPicture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/OtherPictureDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/OtherPictureDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FirstPage/PageBottom.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/PageBottomInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/PageBottomInfoDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/PageBottomInfoDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/PasswordProtectProblem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/PasswordProtectProblemBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/PasswordProtectProblemDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/PasswordProtectProblemDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/Permission.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/PermissionApply.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/PermissionApplyDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/PermissionApplyDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/fittler/PermissionCheck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/PermissionDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/PermissionDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/PermissionManageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/PermissionManager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/PermissionManager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/PermissionViewAndApply/PermissionStatus.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/PermissionViewAndApply.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/PermissionViewAndApply.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/PermissionViewAndApplyBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/Permission_ApplyDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/firstpage/PicCrop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FirstPageManage/PicCrop.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/firstpage/PicCrop2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FirstPageManage/PicCrop2.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/firstpage/PicCrop3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FirstPageManage/PicCrop3.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/PicCropForUpdate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/PicCropForUpdate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ProductManage/PicCropForUpdate.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/firstpage/PicUpload.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/PicUploadForCK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/publ/PictureDeal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dbcl/PoolManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/ProPicCrop_fd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/ProPicUpload_fd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/Product.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/Product.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/Product.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/ProductAdd.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/ProductAdd.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ProductManage/ProductAdd1.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/ProductAdd2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/ProductAdd2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ProductManage/ProductAdd2.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ProductManage/ProductAdd3.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ProductBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/ProductDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/ProductDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/ProductList.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/ProductList.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/ProductList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/ProductList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/ProductList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Product/ProductList.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ProductManage/ProductList.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/ProductListDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/ProductListDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/bll/ProductManageBll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FirstPage/ProductNavigator.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/ProductPage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/ProductPage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/ProductPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/ProductPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Product/ProductPage.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ProductManage/ProductPage.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/ProductParam.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/ProductParamDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/ProductParamDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/ProductPicCrop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/ProductPicUpload.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/ProductPicture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/ProductPictureDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/ProductPictureDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/enumdata/ProductPictureType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/ProductSearch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/ProductSearch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/ProductSearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Product/ProductSearch.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/ProductType.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/ProductType.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dcl/ProductType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/ProductType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/ProductType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ProductManage/ProductTypeAdd.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dal/ProductTypeDal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/dpl/ProductTypeDpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ProductManage/ProductTypeList.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/PublishNews.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/PublishNews.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/NewsManage/PublishNews.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/news/PublishNewsSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/PublishProductSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/scayt/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/wsc/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ManagerComplaint/ResponseComplaint.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Product/SearchBox.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Product/SearchBox2.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/publ/SendMail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/testPage/Show.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/News/ShowNews.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/News/ShowNewsType.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/News/ShowTypeNews.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/perview/SubmitApply.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/Test2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/TestCK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ManagerComplaint/TestCom.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/news/TestRegex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Product/Testckeditor.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/TimeStamp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/TypeChangeForList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Product/TypeList.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/AdviceManage/UpdateAdvice.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/advice/UpdateAdviceSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/UpdateBaseInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/CompanyInfoManage/UpdateCompanyInfo.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/CompanyInfo/UpdateCompanyInfoSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/CompanyInfoManage/UpdateCompanyRelation.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/accoutmana/UpdateManInfoSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/AccountManage/UpdateManaInfo.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/NewsManage/UpdateNews.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/news/UpdateNewsSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/UpdateNewsType.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/UpdateNewsType.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/UpdateNewsType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/UpdateNewsType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/NewsManage/UpdateNewsType.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/news/UpdateNewsTypeSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/accoutmana/UpdatePPPAnswerSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/firstpage/UpdatePageBottomInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/AccountManage/UpdateProAnswer.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/UpdateProIntro.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/AccountManage/UpdatePwd.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FindPwdComplaint/UpdatePwdResult.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/accoutmana/UpdatePwdSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/FindPwdComplaint/UpdateRePassword.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/findPwd_complaint/UpdateRePasswordSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/CompanyInfoManage/UpdateRecruitment.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/CompanyInfo/UpdateRecruitmentSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/CompanyInfo/UpdateRelationSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/CompanyInfo/UpdateRelationSel2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/UploadAvator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Product/UploadProduct.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/UploadProductSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/UploadTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/UserProduct.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/UserProduct.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/testPage/UserTestPage.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/WritePPProblem.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/WritePPProblem.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/AccountManage/WritePPProblem.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/accoutmana/WritePPProblemSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YJGS.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/YJGS_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/advice/Yanzhengma.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/publ/Yanzhengma.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/managerLogin/YanzhengmaSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/_languages.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/_translationstatus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/_translationstatus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/_translationstatus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/_translationstatus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/_translationstatus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/_translationstatus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/about/dialogs/about.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/activation.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/addNewManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/addNewManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/adminIE6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/adminIE6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/adminIEBUG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/adminIEBUG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/welcome/adminIndex.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/adminMaster.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/adminMaster.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/adminMaster.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/adminMaster.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Master/adminMaster_footer.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Master/adminMaster_header.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Master/adminMaster_header2.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/AdviceManage/adviceTest.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/advise.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/advise.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/ajax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/link/dialogs/anchor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/api.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/appendto.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/bn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/build-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/forms/dialogs/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/forms/dialogs/checkbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/news/chooseTypeSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/wsc/dialogs/ciframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/ckeditor.asp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/ckeditor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/ckeditor.pack" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/ckeditor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/ckeditor_basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/ckeditor_basic_source.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/ckeditor_php4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/ckeditor_php5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/ckeditor_source.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/colordialog/dialogs/colordialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/contents.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/crop.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/datafiltering.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/db_yjwz_v1.2.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/findPwd_complaint/dealComplaintSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/pastefromword/filter/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/styles/styles/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/templates/templates/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/advice/deleteAdvice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/news/deleteNewsSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/demo_files/demos.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/plugins/dialog/dialog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/dialog/dialogDefinition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/dialog_ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/dialog_ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/dialog_ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/dialog_iequirks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/div/dialogs/div.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/divreplace.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/findPwd_complaint/doComplaintSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/docprops/dialogs/docprops.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/editor_gecko.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/editor_ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/editor_ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/editor_ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/editor_iequirks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/en-au.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/en-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/en-gb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/plugins/enterkey/enterkey.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/errorPage.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/find/dialogs/find.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/flash/dialogs/flash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/forms/dialogs/form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/plugins/wysiwygarea/fullpage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/managerLogin/goBack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/gu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/gu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/gu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Master/handlePage.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/forms/dialogs/hiddenfield.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/iframe/dialogs/iframe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/image/dialogs/image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/inlineall.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/inlinebycode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/inlinetextarea.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/jquery-2.1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/jquery-2.1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/css/jquery.Jcrop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/js/jquery.Jcrop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/css/jquery.Jcrop.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/js/jquery.Jcrop.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/js/jquery.color.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/jquery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/adapters/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/ku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/ku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/ku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/ku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/ku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/ku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/ku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/assets/uilanguages/languages.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/link/dialogs/link.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/liststyle/dialogs/liststyle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/CompanyInfo/loadCompanyInfo.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/CompanyInfo/loadCompanyPictureSel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/CompanyInfo/loadCompanyRelation.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/CompanyInfo/loadRecruitment.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/plugins/magicline/magicline.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/demo_files/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/mainPage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/mainPage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS - backup/masterPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JS/masterPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Master/masterPage_footer.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Master/masterPage_header.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Master/masterPage_header2.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/mn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/plugins/dialog/assets/my_dialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/non-image.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/scayt/dialogs/options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/plugins/htmlwriter/outputforflash.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/plugins/htmlwriter/outputhtml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/assets/outputxhtml/outputxhtml.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/clipboard/dialogs/paste.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/pastetext/dialogs/pastetext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/picUpload.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/dialogs/placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/adobeair/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/ajax/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/autogrow/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/bbcode/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/docprops/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/iframedialog/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/stylesheetparser/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/tableresize/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/xml/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/assets/posteddata.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/preview/preview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/forms/dialogs/radio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/moono/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/readonly.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/recruitment.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/recruitment.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/replacebyclass.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/replacebycode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/sample.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/sample.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/sample_posteddata.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/forms/dialogs/select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Product/show.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/si.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/si.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/skin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/skin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/skin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/smiley/dialogs/smiley.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/specialchar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/sq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/sq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/sr-latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/styling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/swfobject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/tabindex.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/table/dialogs/table.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/tabletools/dialogs/tableCell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/templates/dialogs/templates.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/kama/templates.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/office2003/templates.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/skins/v2/templates.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/templates/dialogs/templates.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ProductManage/test.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JcropTest/test1.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/testConnectionPool.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/testCrop.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/testCrop2.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/testPage/testPage.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/JcropTest/testPic.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yjgs/controller/product/testpic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/forms/dialogs/textarea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/forms/dialogs/textfield.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/themes/default/theme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/testPage/toRightTestPage.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/scayt/dialogs/toolbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/plugins/toolbar/toolbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/tt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/tt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/tutorial1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/tutorial2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/tutorial3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/tutorial4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Jcrop/demos/tutorial5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/uicolor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/dialogs/uicolor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/uilanguages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/welcome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/welcome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css - backup/writeProblem.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Css/writeProblem.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/wsc/dialogs/wsc.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/wsc/dialogs/wsc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/wsc/dialogs/wsc_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/samples/xhtmlstyle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/yui/assets/yui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/yui/yui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/devtools/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/placeholder/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/uicolor/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/lang/zh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ckeditor/plugins/specialchar/dialogs/lang/zh.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/activation.xml" afterPath="$PROJECT_DIR$/.idea/libraries/additional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YJGS.iml" afterPath="$PROJECT_DIR$/YJGS.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/YJGS_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/YJGS_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="YJGS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1118,111 +19,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ChangesViewManager" flattened_view="false" show_ignored="true" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="YJGS" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PictureDeal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yjgs/publ/PictureDeal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConnectionPool.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yjgs/dbcl/ConnectionPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Complaint.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Css - backup/Complaint.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WritePPProblem.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Css - backup/WritePPProblem.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindPwd.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Css - backup/FindPwd.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Complaint.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/Css/Complaint.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="495" selection-start-line="0" selection-start-column="495" selection-end-line="0" selection-end-column="495" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PoolManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yjgs/dbcl/PoolManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -1245,6 +57,8 @@
         <option value="$PROJECT_DIR$/src/com/yjgs/publ/PictureDeal.java" />
         <option value="$PROJECT_DIR$/src/com/yjgs/dbcl/DBConfig.java" />
         <option value="$PROJECT_DIR$/src/com/yjgs/dbcl/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/com/yjgs/controller/permanage/ModifyPermission.java" />
+        <option value="$PROJECT_DIR$/YJGS.iml" />
       </list>
     </option>
   </component>
@@ -1258,6 +72,16 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="NamedScopeManager">
     <order />
@@ -1290,9 +114,118 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YJGS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tomcat 6.0.44" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YJGS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tomcat 6.0.44" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalina.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YJGS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tomcat 6.0.44" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalina.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YJGS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tomcat 6.0.44" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalina.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YJGS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tomcat 6.0.44" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalina.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="YJGS" />
@@ -1337,32 +270,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YJGS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YJGS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="activation.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1370,14 +286,16 @@
     <property name="recentsLimit" value="5" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 6.0.44">
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
@@ -1724,7 +642,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2f542d90-da6e-4c42-8571-9f4e3d80192c" name="Default" comment="" />
-      <changelist id="" name="init code" comment="init code" />
       <created>1448020236277</created>
       <option name="number" value="Default" />
       <updated>1448020236277</updated>
@@ -1732,41 +649,43 @@
       <workItem from="1448075287366" duration="724000" />
       <workItem from="1448076309801" duration="148000" />
       <workItem from="1448076532691" duration="167000" />
-      <workItem from="1448092475756" duration="3044000" />
+      <workItem from="1448092475756" duration="4221000" />
+      <workItem from="1448181575599" duration="1067000" />
+      <workItem from="1448193566814" duration="1927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6686000" />
+    <option name="totallyTimeSpent" value="10857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994652" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28301886" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994652" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973261" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973261" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1824,7 +743,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1833,9 +752,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1868,7 +785,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1877,9 +794,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1912,7 +827,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1921,9 +836,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1985,7 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.54875">
           <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2008,9 +920,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2018,7 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3321033">
           <caret line="330" column="36" selection-start-line="330" selection-start-column="36" selection-end-line="330" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2033,19 +942,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19626169">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/db_yjwz_v1.2.sql">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.633752">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yjgs/dbcl/ConnectionPool.java">
@@ -2053,7 +960,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2082,10 +989,135 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/local/lib/apache-tomcat-6.0.44/lib/servlet-api.jar!/javax/servlet/ServletResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32996634">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/lib/apache-tomcat-6.0.44/lib/servlet-api.jar!/javax/servlet/http/HttpServletResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.23569024">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yjgs/controller/permanage/ModifyPermission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="45" column="69" selection-start-line="45" selection-start-column="69" selection-end-line="45" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/Css/Complaint.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.022776572">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yjgs/controller/permanage/AddNewManager.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="495" selection-start-line="0" selection-start-column="495" selection-end-line="0" selection-end-column="495" />
+          <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.29-bin.jar!/com/mysql/jdbc/AbandonedConnectionCleanupThread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14141414">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/YJGS_war_exploded/OtherPicture/c_20150124133418406.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/lib/apache-tomcat-6.0.44/lib/catalina.jar!/org/apache/catalina/servlets/LocalStrings.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/YJGS_war_exploded.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09110629">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2755905">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/lib/apache-tomcat-6.0.44/lib/catalina.jar!/org/apache/catalina/servlets/DefaultServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7441077">
+          <caret line="132" column="27" selection-start-line="132" selection-start-column="27" selection-end-line="132" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YJGS.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52386117">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -2168,7 +1200,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>activation</last-edited>
+          <last-edited>additional</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
