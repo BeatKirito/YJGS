@@ -45,7 +45,7 @@ public class NewsSPictureSel extends HttpServlet {
 		String callback = null;
 		
 		HttpSession session = request.getSession(true);
-		int userID = (int)session.getAttribute("UserID");
+		int userID = (Integer)session.getAttribute("UserID");
 		
 		try {
 			

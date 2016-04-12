@@ -904,4 +904,13 @@
     <servlet-name>InsertCompanyRecruitmentSel</servlet-name>
     <url-pattern>/CompanyInfoManage/InsertCompanyRecruitmentSel</url-pattern>
   </servlet-mapping>
+
+  <servlet>
+    <servlet-name>EncodingTest</servlet-name>
+    <servlet-class>com.yjgs.controller.EncodingTest</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>EncodingTest</servlet-name>
+    <url-pattern>/EncodingTest</url-pattern>
+  </servlet-mapping>
 </web-app>

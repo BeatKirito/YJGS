@@ -7,8 +7,6 @@ import java.util.ArrayList;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.jsp.JspWriter;
 
-import jdk.internal.org.objectweb.asm.commons.AdviceAdapter;
-
 import com.yjgs.dal.AdviceDal;
 import com.yjgs.dal.ProductListDal;
 import com.yjgs.dcl.Advice;

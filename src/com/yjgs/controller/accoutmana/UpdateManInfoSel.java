@@ -52,7 +52,7 @@ public class UpdateManInfoSel extends HttpServlet {
 		try{
 			
 			session = request.getSession(true);
-			userID = (int)session.getAttribute("UserID");
+			userID = (Integer)session.getAttribute("UserID");
 			
 			Manager manager = new Manager();
 			manager.setManagerID(userID);

@@ -1,6 +1,7 @@
 package com.yjgs.dal;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 import com.yjgs.dal.idal.IAdviceDal;
 import com.yjgs.dcl.Advice;
@@ -31,7 +32,6 @@ public class AdviceDal implements IAdviceDal {
 		else {
 			return true;
 		}
-
 	}
 
 	@Override

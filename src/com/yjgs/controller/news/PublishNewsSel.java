@@ -87,7 +87,7 @@ public class PublishNewsSel extends HttpServlet {
 	public void matchPath(String Text,HttpServletRequest request){
 		
 		HttpSession session = request.getSession();
-		int userID = (int)session.getAttribute("UserID");
+		int userID = (Integer)session.getAttribute("UserID");
 		//String path = "PicCache/" + userID;
 		
 		String str = "src=\".*?.[a-z]{3}\"";
@@ -115,7 +115,7 @@ public class PublishNewsSel extends HttpServlet {
 	public String ChangeText(String Text,HttpServletRequest request){
 		
 		HttpSession session = request.getSession();
-		int userID = (int)session.getAttribute("UserID");
+		int userID = (Integer)session.getAttribute("UserID");
 		
 		//String str = "src=\".*?.[a-z]{3}\"";
 		
@@ -136,7 +136,7 @@ public class PublishNewsSel extends HttpServlet {
 	public void deleteSPicture(String Text,HttpServletRequest request){
 		
 		HttpSession session = request.getSession();
-		int userID = (int)session.getAttribute("UserID");
+		int userID = (Integer)session.getAttribute("UserID");
 		String spath = "PicCache/" + userID;
 		
         //String str ="../"+spath+"/\\w+\\.jpg";

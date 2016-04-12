@@ -51,7 +51,7 @@ public class FindPwd3Sel extends HttpServlet {
 		
 		try {
 			HttpSession session = request.getSession();
-			userID = (int)session.getAttribute("UserID");
+			userID = (Integer)session.getAttribute("UserID");
 		} catch (Exception e) {
 			e.printStackTrace();
 			request.setAttribute("judge", "false");

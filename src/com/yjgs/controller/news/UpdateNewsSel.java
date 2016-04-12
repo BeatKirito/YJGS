@@ -129,7 +129,7 @@ public class UpdateNewsSel extends HttpServlet {
 		public String ChangeText(String Text,HttpServletRequest request){
 			
 			HttpSession session = request.getSession();
-			int userID = (int)session.getAttribute("UserID");
+			int userID = (Integer)session.getAttribute("UserID");
 			
 			//String str = "src=\".*?.[a-z]{3}\"";
 			

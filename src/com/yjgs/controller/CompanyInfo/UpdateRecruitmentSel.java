@@ -132,7 +132,7 @@ public class UpdateRecruitmentSel extends HttpServlet {
 			public String ChangeText(String Text,HttpServletRequest request){
 				
 				HttpSession session = request.getSession();
-				int userID = (int)session.getAttribute("UserID");
+				int userID = (Integer)session.getAttribute("UserID");
 				
 				String regex = "PicCache/" + userID;
 				Pattern pat = Pattern.compile(regex);  
